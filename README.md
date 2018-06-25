@@ -1,4 +1,4 @@
-# barcode-scanner
+# Barcode Scanner
 A simple barcode/QR code scanner made in Python
 
 ### Requirements

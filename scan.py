@@ -56,6 +56,7 @@ if __name__ == '__main__':
 
         # Close window when Q key is pressed
         if cv2.waitKey(1) & 0xFF == ord('q'):
+            cv2.imwrite('example.jpg', gray)
             break
     cap.release()
     cv2.destroyAllWindows()

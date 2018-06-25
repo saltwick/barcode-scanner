@@ -10,4 +10,4 @@ A simple barcode/QR code scanner made in Python
 
 ### Example
 
-[example]: https://github.com/ssaltwick/barcode-scanner/blob/master/example.jpg
+![example](https://github.com/ssaltwick/barcode-scanner/blob/master/example.jpg)

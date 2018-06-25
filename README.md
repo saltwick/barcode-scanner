@@ -7,3 +7,7 @@ A simple barcode/QR code scanner made in Python
 - Numpy - install with pip `pip install numpy`
 - Pyzbar - install with pip `pip install pyzbar`
 - zbar - install with preferred package manager
+
+### Example
+
+[example]: https://github.com/ssaltwick/barcode-scanner/blob/master/example.jpg
